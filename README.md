@@ -1,0 +1,2 @@
+# myCodeProj
+some coding practices
